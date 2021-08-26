@@ -5,7 +5,7 @@
     "require": {
         "drupal/recurring_events": "<2.0.0-beta3",
         "ymcatwincities/daxko_sso": "*",
-        "drupal/jsonapi_image_styles": "^1.0@beta",
+        "drupal/jsonapi_image_styles": "^1.0@beta || ^2.0",
         "drupal/csv_serialization": "^2.0",
         "drupal/simple_recaptcha": "^1.0",
         "drupal/date_recur": "^2.0|^3.0",
